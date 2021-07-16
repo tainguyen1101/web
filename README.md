@@ -2,14 +2,14 @@
 <html lang="en">
 
 <head>
-  <!-- anju  -->
+  <!-- Tai  -->
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Anju</title>
+  <title>Tai</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -65,11 +65,11 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
       <div class="w-100">
-        <h1 class="mb-0">Anju 
+        <h1 class="mb-0">Tai 
           <span class="text-primary">Rama Krishnan</span>
         </h1>
         <div class="subheading mb-5"> 2586-Cavendish Avenue · Victoria, British Columbia -V8R-2G6 ·</li> phone: +1(250) 884-3658 ·  
-          <a href="mailto:anjurkrishnan9@gmail.com"> anjurkrishnan9@gmail.com </a> 
+          <a href="mailto:tai.nguyenthe@gmail.com"> tai.nguyenthe@gmail.com </a> 
           
         </div>
         <p class="lead mb-5">Incoming Co-op student at Sierra Wireless,Inc. who is an ambitious,diligent and versatile graduate student at the University of Victoria,specializing in cybersecurity. Hailing from "Gods Own Country",Kerala,India and currently living in Victoria,BC,Canada. I speak four languages and I truly believe that one should really understand their passion and their capabilities and work on them and build a career out of it. I love to  watch stand-up comedies and read detective novels. Thank you for visiting my website. </p>
